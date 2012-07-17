@@ -21,7 +21,5 @@
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
     </p>
     </form>
-    <p>
-        Hello world!!!</p>
 </body>
 </html>
