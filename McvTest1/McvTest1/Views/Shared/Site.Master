@@ -13,7 +13,8 @@
     <div class="page">
         <header>
             <div id="title">
-                <h1>我的 MVC 应用程序</h1>
+                <br />
+                <h1>&nbsp<img src="/Images/logo.jpg"></h1>
             </div>
             <div id="logindisplay">
                 <% Html.RenderPartial("LogOnUserControl"); %>
